@@ -1,0 +1,559 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    background-image: url(hhh.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+
+
+    background-position: center;
+    /* تجعل الصورة تتمركز في الوسط */
+
+    /* تمنع تكرار الصورة */
+    background-attachment: fixed;
+    /* تجعل الخلفية ثابتة عند التمرير */
+
+
+
+}
+
+
+
+
+
+/* تطبيق الاتجاه RTL على كل الصفحة */
+html {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Tajawal', sans-serif;
+    /* استخدام خط عربي */
+
+}
+
+p {
+
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+
+
+
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+    text-shadow: 2px 2px 4px #000000;
+    background-color: #0000ffa3;
+    border-radius: 30px;
+    background-size: 50%;
+
+
+    background: linear-gradient(to right, #0033cc, #000066);
+    /* تدرج لوني جميل */
+    color: white;
+    /* لون النص */
+    padding: 15px 30px;
+    /* التحكم في المسافات الداخلية */
+    width: fit-content;
+    /* يجعل الخلفية بحجم النص */
+    border-radius: 10px;
+    /* حواف دائرية */
+    margin: 0 auto;
+    /* توسيط العنصر */
+    text-align: center;
+
+
+
+    width: 80%;
+    /* اجعل العرض مساويًا للمستطيل الأبيض */
+    max-width: 600px;
+    /* الحد الأقصى للعرض */
+
+    margin-top: 80px;
+    /* إضافة مسافة تحت شريط التنقل */
+    text-align: center;
+    scroll-margin-top: 100px;
+    /* يجعل الصفحة تبدأ بعد الهيدر عند الانتقال */
+
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+    text-shadow: 2px 2px 4px #000000;
+    background: linear-gradient(to right, #0033cc, #000066);
+    /* تدرج لوني جميل */
+    color: white;
+    /* لون النص */
+    padding: 15px 30px;
+    /* التحكم في المسافات الداخلية */
+    width: fit-content;
+    /* يجعل الخلفية بحجم النص */
+    border-radius: 10px;
+    /* حواف دائرية */
+    margin: 0 auto;
+    /* توسيط العنصر */
+    text-align: center;
+}
+
+.po {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+
+}
+
+hr {
+
+    background-color: #000000;
+    /* تحديد اللون */
+    height: 3px;
+    /* تحديد السماكة */
+    border: none;
+    /* إزالة الحدود الافتراضية */
+
+    width: 50%;
+}
+
+.ll {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+}
+
+.dd {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+}
+
+.mm {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+}
+
+.uu {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+}
+
+.oo {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+}
+
+.sd {
+    width: 50%;
+    /* عرض مناسب */
+    margin: 20px auto;
+    /* يضع الـ div في المنتصف أفقياً */
+    padding: 20px;
+    background: linear-gradient(to right, #0033cc, #000066);
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 44px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+th,
+td {
+    padding: 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background: #0033cc;
+    color: white;
+    font-size: 18px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+    transition: 0.3s;
+}
+
+
+
+
+
+
+label {
+    background: linear-gradient(to right, #0033cc, #000066);
+    /* تدرج لوني مثل الجدول */
+    color: white;
+    /* لون النص */
+    padding: 15px 30px;
+    /* حجم الحواف الداخلية */
+    border-radius: 10px;
+    /* زوايا مستديرة */
+    display: inline-block;
+    /* يجعل الخلفية متناسبة مع النص */
+    font-size: 22px;
+    font-weight: bold;
+    margin: 20px auto;
+    /* توسيط العنوان */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* ظل خفيف */
+}
+
+label span {
+    margin-left: 10px;
+    /* مسافة بين الأيقونة والنص */
+}
+
+
+
+
+
+
+
+
+
+
+/* تنسيق الحاوية الخاصة بالفيديو */
+.video-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    text-align: center;
+    background: linear-gradient(to right, #0033cc, #000066);
+    /* خلفية متدرجة */
+    padding: 20px;
+    border-radius: 15px;
+    /* زوايا دائرية */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    /* ظل خفيف */
+}
+
+/* تنسيق العنوان فوق الفيديو */
+.video-title {
+    color: white;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+/* جعل الفيديو متجاوبًا */
+.video-container iframe {
+    width: 100%;
+    height: 400px;
+    border-radius: 10px;
+    /* جعل الفيديو بحواف دائرية */
+}
+
+
+
+h2 {
+    padding: 15px 20px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.video-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    background: linear-gradient(to right, #0033cc, #000066);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 400px;
+    border-radius: 8px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+th {
+    background: #0033cc;
+    color: white;
+    font-size: 18px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    transition: 0.3s;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 51, 204, 0.8);
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #0033cc, #000066);
+    color: white;
+    padding: 15px 30px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: yellow;
+
+}
+
+#topBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #0033cc;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 22px;
+    cursor: pointer;
+    display: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: 0.3s;
+}
+
+#topBtn:hover {
+    background: yellow;
+    color: #0033cc;
+}
+
+
+
+footer {
+    background: #0033cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a img {
+    width: 30px;
+    margin: 0 10px;
+    transition: 0.3s;
+}
+
+.social-icons a img:hover {
+    transform: scale(1.2);
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    background: #0033cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+    /* إضافة مسافة كافية بين المحتوى والفوتر */
+}
+
+footer {
+    z-index: 10;
+    /* تأكد أن الفوتر يظهر فوق العناصر الأخرى */
+}
+
+html,
+body {
+    min-height: 100vh;
+    /* يضمن أن الصفحة تأخذ طول الشاشة بالكامل */
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+    /* يدفع الفوتر للأسفل عند الحاجة */
+}
+
+footer {
+    background: #0033cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+/* تنسيق أيقونات التواصل الاجتماعي */
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 24px;
+    color: white;
+    transition: 0.3s;
+}
+
+/* تأثير التفاعل عند التمرير */
+.social-icons a:hover {
+    transform: scale(1.2);
+    color: yellow;
+}
+
+footer p {
+    color: black;
+    /* تغيير لون النص إلى الأسود */
+    font-weight: bold;
+    /* جعل النص أكثر وضوحًا */
+}
+
+.hjk {
+    text-decoration: none;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+}
+
+button {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    width: 40px;
+    height: 35px;
+}
